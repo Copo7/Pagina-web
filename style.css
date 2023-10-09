@@ -1,0 +1,49 @@
+body {
+    background-image: url(fondo.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#azul{
+    color: #0400f9;
+    text-align: center;
+}
+.azul2{
+    color: #0400f9;
+    text-decoration: none;
+    text-align: center;
+}
+#eslabones{
+    float: right;
+    size: 45px;
+}
+#enlacesrelacionados{
+    background-color: lightgray;
+    padding: 2rem;
+}
+#principal{
+    width: 800px;
+    margin: auto;
+    background-color: white;
+}
+#parrafoazul{
+    color: blue;
+}
+.enlacenegro{
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color:black;
+}
+.enlaceazul{
+    text-decoration: none;
+    font-weight: bold;
+    color:rgb(77, 56, 187);
+}
+
+h3{
+    border-bottom: 2px solid blue;
+}
+
+h4{
+    text-align: center;
+}
